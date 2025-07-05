@@ -1,0 +1,19 @@
+{
+  "websiteUrl": "https://mangareader.to",
+  "userAgent": "Shane_Manga_Reader_v1.0_Premium",
+  "appTitle": "Shane Manga Reader - Premium",
+  "splashDuration": 4000,
+  "autoLaunch": true,
+  "features": {
+    "screenshotProtection": true,
+    "rightClickDisabled": true,
+    "devToolsDisabled": true
+  },
+  "theme": {
+    "splashBackground": "#667eea",
+    "splashAccent": "#764ba2"
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-15T10:30:00Z",
+  "message": "Welcome to Shane Manga Reader Premium Edition!"
+}
